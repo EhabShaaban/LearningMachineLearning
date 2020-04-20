@@ -1,2 +1,2 @@
-# LearningMachineLearning
-ML implementations from tutorials and online search.
+# sklearn classifiers
+ML sklearn classifiers implementations.
