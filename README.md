@@ -1,2 +1,2 @@
-# sklearn classifiers
-ML sklearn classifiers implementations.
+# ml sklearn classifiers
+ml sklearn classifiers
